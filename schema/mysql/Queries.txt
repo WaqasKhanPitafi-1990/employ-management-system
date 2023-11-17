@@ -1,0 +1,7 @@
+# Insert Grievance Module into module table
+INSERT INTO `modules` (`id`, `cid`, `name`, `status`, `display_lm_config`, `display_hr_config`) VALUES (NULL, '48', 'grievance', '1', '1', '1');
+#grievance  module id =  12;
+
+
+
+

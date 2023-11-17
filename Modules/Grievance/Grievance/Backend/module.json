@@ -1,0 +1,13 @@
+{
+    "name": "Grievance",
+    "alias": "Grievance",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Grievance\\Grievance\\Backend\\Providers\\GrievanceServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
